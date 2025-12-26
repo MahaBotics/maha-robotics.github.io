@@ -1,4 +1,8 @@
-# I am Maha, and I love robots 🤖
+---
+layout: home
+---
+
+# I am Maha, and I love robots 
 
 Professionally, I work on **robot motion planning, control, and simulation**.
 
@@ -7,13 +11,13 @@ If that sounds interesting, feel free to check it out — I’d love to discuss 
 
 Below are some **selected projects** from my professional and personal journey.
 
-Professional
-Precision UAV landing on dynamic platform
-Guidance, NAvigation and Control of Fixed Wing for IAF-OC Kamikaze Missions
+### Professional
+- Precision UAV landing on dynamic platform
+- Guidance, NAvigation and Control of Fixed Wing for IAF-OC Kamikaze Missions
 
 
 
-Personal: 
-Panda Robot Visual servoing using ARuco Tag
-Histogram Based Obstacle Avoidance Planner
-IMU-based Expressive Cat Ears
+### Personal: 
+- Panda Robot Visual servoing using ARuco Tag
+- Histogram Based Obstacle Avoidance Planner
+- IMU-based Expressive Cat Ears
